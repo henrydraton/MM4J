@@ -1,0 +1,5 @@
+
+log("MM4J is starting.");
+do;
+	exec("script.txt","MM4J Script");
+	loop;
